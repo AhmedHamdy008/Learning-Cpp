@@ -4,7 +4,7 @@ using namespace std;
 //return value is the input entered by the user
 int getValue() {
     cout<<"Enter a number:  ";
-    int input{}; //
+    int input{};
     cin>>input;
 
     return input;
