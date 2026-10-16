@@ -3,7 +3,7 @@ using std::cout;
 
 void printa()
 {
-    cout<<"first lesson in the chapter 2 !\n";
+    cout<<"first lesson in chapter 2 !\n";
 }
 
 int main() {
