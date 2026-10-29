@@ -6,11 +6,7 @@ int main(){
     students ++;                 //increment  
     students+= 2;                //addition
     students --;                 //decrement
-    students-=2;                 
-   
-    std::cout<<students<<'\n';
-
-    //students= students * 2
+    students-=2;                 //subtraction
     students*=2;                 //multiplication
     students/=2;                 //division ( make sure its divisible because you are using an int or change to double)
 
