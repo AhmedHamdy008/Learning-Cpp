@@ -14,4 +14,6 @@ int main(){
     bool allowed = (age >= 18 || age>=8 && height >=120) && !(height>=200);
 
     std::cout<<(allowed ? "Enjoy the ride!" : "Sorry u cant ride");
+
+    return 0;
 }
